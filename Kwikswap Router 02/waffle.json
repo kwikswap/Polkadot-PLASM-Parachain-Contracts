@@ -1,0 +1,10 @@
+{
+    "compilerType": "solcjs",
+    "compilerVersion": "0.6.6",
+    "sourceDirectory": "./src",
+    "outputDirectory": "./build",
+    "optimizer": {
+        "enabled": true,
+        "runs": 1
+      }
+  }
